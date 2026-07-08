@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-PINCHED_HYSTERESIS",
+  "name": "PINCHED HYSTERESIS · PIN",
+  "universe": "HEÚREMA",
+  "moniker": "⟦PINCHED HYSTERESIS · PIN:pinched-hysteresis:00b874⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "00b874f64e12331733a8425b8d45620a81945a67610b9b2d2941b098743c7b3c",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
